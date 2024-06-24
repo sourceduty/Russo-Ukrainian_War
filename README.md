@@ -1,5 +1,9 @@
 ![Russian Grenade](https://github.com/sourceduty/Russo-Ukrainian_War/assets/123030236/75d976e5-5d08-4414-9652-6dc4f171c52b)
 
+> Russia's war in Ukraine, which began in February 2014.
+
+#
+
 The war in Ukraine involving Russia has deep historical and geopolitical roots. One of the primary causes is the long-standing tension between Ukraine's aspirations to integrate more closely with Western Europe and NATO, and Russia's desire to maintain influence over Ukraine as part of its sphere of influence. The immediate trigger for the conflict can be traced back to 2014 when Ukraine's then-President Yanukovych, under pressure from Russia, abandoned an association agreement with the European Union in favor of closer ties with Russia. This decision led to massive protests, known as the Euromaidan movement, resulting in Yanukovych's ousting. In response, Russia annexed Crimea and supported pro-Russian separatists in Eastern Ukraine, leading to ongoing conflict in the Donbas region.
 
 The war significantly escalated on February 24, 2022, when Russia launched a full-scale invasion of Ukraine. This marked the beginning of the current phase of the conflict, characterized by widespread military engagements, significant casualties, and extensive destruction in various parts of Ukraine. The invasion has led to a humanitarian crisis, with millions of Ukrainians displaced both internally and as refugees in neighboring countries.
