@@ -1,4 +1,4 @@
-![Russian Grenade](https://github.com/sourceduty/Russo-Ukrainian_War/assets/123030236/75d976e5-5d08-4414-9652-6dc4f171c52b)
+![Blue Shield](https://github.com/user-attachments/assets/e56e2a1a-3a61-481c-81ae-3a6ddf3b6cfe)
 
 > Russia's war in Ukraine, which began in February 2014.
 
@@ -13,6 +13,10 @@ The main parties involved in the war are Ukraine and Russia. Ukraine, led by Pre
 Ukraine has received substantial support from many Western countries. The United States, the United Kingdom, Canada, the European Union, and NATO members have provided military, financial, and humanitarian assistance. Other countries such as Australia, Japan, South Korea, Poland, and various Scandinavian and Baltic states have also been strong supporters of Ukraine. On the other hand, Russia has found some degree of support or neutrality from countries like Belarus, China, Iran, North Korea, Syria, and Venezuela. Belarus has been particularly supportive by allowing Russian troops to stage from its territory. Countries like China and India have maintained a more neutral stance, advocating for dialogue and continuing their economic engagements with Russia.
 
 The conflict remains highly complex, with significant international involvement and far-reaching consequences for global politics, security, and economics. Efforts for a diplomatic resolution continue amid ongoing hostilities, with the international community closely watching the developments.
+
+#
+
+![Russian Grenade](https://github.com/sourceduty/Russo-Ukrainian_War/assets/123030236/75d976e5-5d08-4414-9652-6dc4f171c52b)
 
 #
 
@@ -60,6 +64,14 @@ Diplomatic efforts are essential to support Ukraine on the global stage. This in
 Economic sanctions are a powerful tool to weaken Russia’s ability to sustain its military campaign. These sanctions can target key sectors of the Russian economy, including energy, finance, and technology. By restricting access to international markets, freezing assets, and cutting off financial transactions, the international community can significantly impact Russia’s economy. Additionally, supporting Ukraine's economy through financial aid, investment, and trade partnerships can help bolster its resilience and ability to withstand the economic impacts of the war.
 
 Military assistance, though more controversial, is another way to support Ukraine. This can include providing defensive weapons, intelligence support, and training to Ukrainian forces. Ensuring that Ukraine has the means to defend itself can deter further aggression and help stabilize the situation on the ground. However, it is crucial to balance this support to avoid escalating the conflict further. International cooperation and careful planning are required to ensure that military assistance effectively supports Ukraine's defense without provoking a broader conflict.
+
+#
+
+[Military Product](https://github.com/sourceduty/Military_Product)
+<br>
+[War Technology](https://github.com/sourceduty/War_Technology)
+<br>
+[WW2](https://github.com/sourceduty/WW2)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
