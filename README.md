@@ -72,6 +72,8 @@ Military assistance, though more controversial, is another way to support Ukrain
 [War Technology](https://github.com/sourceduty/War_Technology)
 <br>
 [WW2](https://github.com/sourceduty/WW2)
+<br>
+[Global Problams](https://github.com/sourceduty/Global_Problems)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
