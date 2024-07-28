@@ -53,7 +53,7 @@ In the realm of international law and norms, the war in Ukraine challenges the p
 #
 ### Supporting the Russo-Ukrainian War
 
-![Support](https://github.com/user-attachments/assets/44d46934-faa5-4962-9670-6610717b99ee)
+![Support](https://github.com/user-attachments/assets/93174beb-47af-4605-8cf3-91b2f3f8a8c1)
 
 Supporting Ukraine in its conflict with Russia involves a multifaceted approach that encompasses humanitarian aid, diplomatic efforts, economic sanctions, and military assistance. Humanitarian aid is crucial to alleviate the suffering of civilians caught in the conflict. This includes providing food, medical supplies, and shelter to those displaced by the war. International organizations and non-governmental organizations (NGOs) play a vital role in delivering this aid. Additionally, supporting refugee programs and offering asylum to those fleeing the war zone can provide immediate relief and safety to those affected.
 
