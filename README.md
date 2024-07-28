@@ -90,6 +90,11 @@ Political alignments and diplomatic stances further contribute to indirect suppo
 Military cooperation and technology transfers also play a part in the indirect support for Russia. Some countries have continued to supply Russia with military technology, dual-use goods, or components that can be repurposed for military use. Even indirect assistance, such as providing economic aid that frees up Russian resources for the war effort, can be significant. This type of support often flies under the radar but is crucial for maintaining Russia's military operations. The cumulative effect of these various forms of indirect support complicates international efforts to isolate Russia and bring about a resolution to the conflict, highlighting the intricate web of global interactions that sustain such conflicts.
 
 #
+### OpenAI and ChatGPT
+
+ChatGPT allows users from Russia to sign up. Despite the ongoing Russo-Ukrainian war, OpenAI does not impose restrictions based on nationality for accessing its services. Users from Russia's allies, such as Belarus, Iran, North Korea, Syria, Venezuela, Nicaragua, and Cuba, are generally able to sign up as well. However, access to ChatGPT may be subject to local laws and regulations in these countries, and certain international sanctions or restrictions could affect availability. OpenAI does not explicitly block users based on their country of origin, but geopolitical factors and regional internet regulations might influence individual access.
+
+#
 
 [Military Product](https://github.com/sourceduty/Military_Product)
 <br>
