@@ -95,7 +95,7 @@ Military cooperation and technology transfers also play a part in the indirect s
 ChatGPT allows users from Russia to sign up. Despite the ongoing Russo-Ukrainian war, OpenAI does not impose restrictions based on nationality for accessing its services. Users from Russia's allies, such as Belarus, Iran, North Korea, Syria, Venezuela, Nicaragua, and Cuba, are generally able to sign up as well. However, access to ChatGPT may be subject to local laws and regulations in these countries, and certain international sanctions or restrictions could affect availability. OpenAI does not explicitly block users based on their country of origin, but geopolitical factors and regional internet regulations might influence individual access.
 
 #
-### War Wolrd
+### War World
 
 Modern governments face significant challenges when managing uncooperative nations at war. One of the primary difficulties lies in the diplomatic arena, where efforts to mediate or broker peace deals often hit roadblocks due to the unwillingness of warring nations to compromise. This resistance can stem from deeply rooted historical grievances, ethnic conflicts, or ideological differences that make reconciliation a distant prospect. Diplomatic isolation, sanctions, and international pressure, while sometimes effective, can also harden the resolve of uncooperative nations, leading to prolonged conflicts and regional instability.
 
