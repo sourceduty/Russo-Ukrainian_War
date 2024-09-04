@@ -132,6 +132,8 @@ The information related to World War III provided by Sourceduty is entirely fict
 [Global Problems](https://github.com/sourceduty/Global_Problems)
 <br>
 [WW3](https://github.com/sourceduty/WW3)
+<br>
+[Guns](https://github.com/sourceduty/Guns)
 
 #
 
