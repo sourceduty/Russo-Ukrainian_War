@@ -143,7 +143,7 @@ The information related to World War III provided by Sourceduty is entirely fict
 
 #
 
-![Putin Meme](https://github.com/user-attachments/assets/cfb75514-0b3b-4d4b-a937-078702271c51)
+![Trump and Putin Smoking Weed](https://github.com/user-attachments/assets/99553029-8da6-4d4b-adbc-ff0931ce089f)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
