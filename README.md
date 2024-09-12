@@ -125,6 +125,10 @@ The information related to World War III provided by Sourceduty is entirely fict
 
 #
 
+![Blue Shield](https://github.com/user-attachments/assets/e56e2a1a-3a61-481c-81ae-3a6ddf3b6cfe)
+
+#
+
 [Military Product](https://github.com/sourceduty/Military_Product)
 <br>
 [War Technology](https://github.com/sourceduty/War_Technology)
@@ -139,7 +143,7 @@ The information related to World War III provided by Sourceduty is entirely fict
 
 #
 
-![Blue Shield](https://github.com/user-attachments/assets/e56e2a1a-3a61-481c-81ae-3a6ddf3b6cfe)
+![Putin Meme](https://github.com/user-attachments/assets/cfb75514-0b3b-4d4b-a937-078702271c51)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
