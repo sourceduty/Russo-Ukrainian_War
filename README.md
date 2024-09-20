@@ -19,23 +19,33 @@ The conflict remains highly complex, with significant international involvement 
 ```
 Allies of Ukraine          Neutral/Stance Varied        Allies of Russia
 -----------------          ---------------------       ----------------
-United States              China                       Belarus
+United States              Pakistan                    Belarus
 United Kingdom             India                       Iran
 Canada                     Brazil                      North Korea
 European Union             South Africa                Syria
 NATO Members               Turkey                      Venezuela
 Australia                  Indonesia                   Nicaragua
 Japan                      Mexico                      Cuba
-South Korea                Saudi Arabia                
+South Korea                Saudi Arabia                China
 Poland                     UAE                         
 Baltic States              Egypt                       
-Scandinavian States        Pakistan                    
+Scandinavian States                            
 Romania                                                 
 Czech Republic                                          
 Slovakia                                                
 New Zealand                                              
 
 ```
+
+#
+### Russian Annexed
+
+A Russian annexation refers to the formal process by which Russia incorporates a territory into its own national borders, often without international recognition or consent from the territory in question. This usually involves the use of military force, political pressure, or a combination of both, followed by a declaration of sovereignty over the region. The most notable recent example is the annexation of Crimea in 2014. After deploying military forces and holding a controversial referendum, Russia declared Crimea part of its territory, despite widespread condemnation from the international community. This act is seen as a violation of international law and has led to ongoing sanctions against Russia.
+
+Russia has a history of annexing other countries or regions, both during the era of the Russian Empire and the Soviet Union, as well as in more recent times. During the 18th and 19th centuries, the Russian Empire expanded its territory significantly, annexing regions in Eastern Europe, Central Asia, and the Caucasus. For example, it incorporated Poland, Finland, and parts of the Baltic States. These territories were often brought under Russian control through military conquest and political maneuvers, followed by integration into the empire.
+
+During the Soviet era, annexation continued under the guise of "liberating" or "protecting" neighboring countries. In 1939, the Soviet Union annexed parts of Poland, Romania, and the Baltic States—Lithuania, Latvia, and Estonia—following the Molotov-Ribbentrop Pact with Nazi Germany. These territories were incorporated into the Soviet Union as Soviet Socialist Republics. After World War II, the USSR maintained control over Eastern European countries, installing pro-Soviet governments and exerting significant influence, although these countries were not officially annexed.
+
 
 #
 ### Impacting International Future Order
@@ -96,6 +106,8 @@ ChatGPT allows users from Russia to sign up. Despite the ongoing Russo-Ukrainian
 
 #
 ### War World
+
+![Russian](https://github.com/user-attachments/assets/a4a0963b-ccc5-4ef6-acdd-9180505e189f)
 
 Modern governments face significant challenges when managing uncooperative nations at war. One of the primary difficulties lies in the diplomatic arena, where efforts to mediate or broker peace deals often hit roadblocks due to the unwillingness of warring nations to compromise. This resistance can stem from deeply rooted historical grievances, ethnic conflicts, or ideological differences that make reconciliation a distant prospect. Diplomatic isolation, sanctions, and international pressure, while sometimes effective, can also harden the resolve of uncooperative nations, leading to prolonged conflicts and regional instability.
 
